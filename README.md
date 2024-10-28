@@ -14,6 +14,10 @@ On this blog, I share my experiences, insights, and tutorials on everything bloc
 - Security practices and best practices for blockchain maintenance 🔒
 - Insights into the latest trends and developments in the blockchain space 📈
 
+## My Guides 
+
+⚙️[Lucidity Node Guide](https://mirror.xyz/0x4cF94AAAeE2Fa5394Fc3aE7eD2C952860a0e9267/FMpvE9A4A7tQgOwMl2xk8O7XVyT7WC_suDsJ9T1_2Sg) ⚙️  [Allora Node Guide](https://mirror.xyz/0x4cF94AAAeE2Fa5394Fc3aE7eD2C952860a0e9267/hJKoltfvZTtpt4BInN5Jmb4CvU4s73yB8U2uKyZ512w) ⚙️  [Seda Node Guide](https://mirror.xyz/0x4cF94AAAeE2Fa5394Fc3aE7eD2C952860a0e9267/cMYL6rDYgPo5_giSuDMbI1KgDKTnBiluRgdEXBDPt2c)  ⚙️
+
 ## My Nodes 🌐
 You can check out some of my nodes: 
 - [Amarok Testnet Node](https://testnet.amarok.connextscan.io/router/0x9a7717a2746E77bceC90bb8a542b8255c1C971e2)
